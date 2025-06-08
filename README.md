@@ -95,6 +95,7 @@ Minimum:
 
 Recommended:
 
+
 - CPU with 16+ cores(32+ cores for a super representative)
 - 32GB+ RAM(64GB+ for a super representative)
 - High Performance SSD with at least 4TB free space
